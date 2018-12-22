@@ -1,1 +1,1 @@
-comsole.logl('Hello Git')
+console.logl('Hello Git')
